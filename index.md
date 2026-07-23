@@ -1,6 +1,6 @@
-# BabyBond AI — Support
+# Bloom Rise — Support
 
-BabyBond AI is a pregnancy, fertility, and baby tracking app with AI guidance.
+Bloom Rise is a pregnancy, fertility, and baby tracking app with AI guidance.
 
 **Contact:** ashwinbhajan11@gmail.com  
 **Privacy policy:** [privacy](privacy)  
